@@ -14,8 +14,8 @@
 #
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,flask,py,git,github,jquery,spring,maven,java)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,flask,py,git,github,jquery,spring,maven,java)](https://majdrezik.website)
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,mysql,nginx,netlify,heroku,ansible,bash,bootstrap,c,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,mysql,nginx,netlify,heroku,ansible,bash,bootstrap,c,vscode)](https://majdrezik.website)
 
 
