@@ -16,6 +16,7 @@
 
 
 
+<a href="https://majdrezik.website"><img src="https://user-images.githubusercontent.com/39953455/184638626-a87f7330-e7bd-4daf-80c4-2b129c1f4def.png" width="47" height="47"></a>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,flask,py,git,github,jquery,spring,maven,java)](https://majdrezik.website)
 
