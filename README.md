@@ -1,6 +1,6 @@
 ## Hi There 👋 🍻
 ### Nice To Meet You. I'm Majd! 😎
-   • ***Im a DevOps Engineer*** 👨‍💻 🚀 &nbsp; &nbsp; | &nbsp; &nbsp; ***Full Stack Developer***  | &nbsp; &nbsp; ***Entrepreneur*** 📊 📆 <br>
+   • ***Im a DevOps Engineer*** ☁️ 💻 🚀 &nbsp; &nbsp; | &nbsp; &nbsp; ***Full Stack Developer*** 👨‍💻 &nbsp; &nbsp; | &nbsp; &nbsp; ***Entrepreneur*** 📊 📆 <br>
 
 ## 💬 Lets Get in Touch! 💬
 
