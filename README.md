@@ -5,7 +5,7 @@
 ## 💬 Lets Get in Touch! 💬
 
 ###   📩 Gmail: majdrezik@gmail.com 
-###   🌐 Website: [majdrezik.website](https://majdrezik.website/)
+###   🌐 Website: [majdrezik.com](https://majdrezik.com/)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/majdrezik/)
